@@ -1,0 +1,5 @@
+console.log('Teste')
+console.log("'teste'")
+console.log('"teste"')
+console.log(`'teste' "teste"`) 
+console.log(134,15.25,'teste')
